@@ -6,14 +6,21 @@
 
 Respitori ini guna untuk melacak progress tugas akhir mata kuliah PSD.
 
+<p align="center">
+<img align="center" src=".img/Silly Fumo.jpg" width="900">
+</p>
 
 
 
 ### Our Team 👤
 Made with love by
 ```yaml
-1. Rheyhan Fahry
-2.
-3.
-4.
+1. Rheyhan Fahry    G1401211030
+2. Butsainah Taqiah G1401211032
+3. Amalia Safira    G1401211088
+4. Jonathan Hizkia  G1401211104 
 ```
+
+## Contributing 💡
+
+Jika ingin memberikan kontribusi bisa request pull ataupun issue.
