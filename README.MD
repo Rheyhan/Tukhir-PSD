@@ -23,4 +23,4 @@ Made with love by
 
 ## Contributing 💡
 
-Jika ingin memberikan kontribusi bisa request pull ataupun issue.
+Jika ingin memberikan kontribusi bisa request pull ataupun issue. 
